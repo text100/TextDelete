@@ -1,0 +1,9 @@
+{
+  "name": "TextDelete",
+  "author":"Ron Tran",
+  "description":"",
+  "version": "1.0.0",
+  "dependencies": {
+    "find-remove": "^0.2.5"
+  }
+}
